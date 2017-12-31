@@ -4,10 +4,10 @@
 
 ## The concept of K-Means listed below:
 
-*  #### 1.Pick random Kpoints from point distribution
-*  #### 2.Calculate distances between each point to randomly picked Kpoints
-*  #### 3.Assign Cluster ID of the closest to all points
-*  #### 4.Calculate centroid coordinates of clusters
-*  #### 5.Repeat 2 –4, and stop when cluster members are stabilized
+  #### 1.Pick random Kpoints from point distribution
+  #### 2.Calculate distances between each point to randomly picked Kpoints
+  #### 3.Assign Cluster ID of the closest to all points
+  #### 4.Calculate centroid coordinates of clusters
+  #### 5.Repeat 2 –4, and stop when cluster members are stabilized
 
 ##### *The distance used here is Euclidean Distance
