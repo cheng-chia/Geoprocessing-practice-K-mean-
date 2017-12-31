@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 #### This is a programming practice to write a geoprocessing tool based on pseudocode. The K-Means tool is a popular clustering method for data mining. When we have spatial data with coordination like (X,Y) or (X,Y,Z), K-Means is a good tool for grouping them.  
 =======
+#### This is a programming practice to write a geoprocessing tool based on the pseudocode. The K-Means tool is a popular clustering method for data mining. When we have spatial data with coordination like (X,Y) or (X,Y,Z), K-Means is a good tool for grouping them.  
 >>>>>>> a6a53f660a1fa90da8cb3defd098e0cf5e867c6f
 
 ## The concept of K-Means listed below:
@@ -13,3 +14,4 @@
   #### 4. Calculate centroid coordinates of clusters
   #### 5. Repeat 2 –4, and stop when cluster members are stabilized
 
+##### *The distance used here is Euclidean Distance
