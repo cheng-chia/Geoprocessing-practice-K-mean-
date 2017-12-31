@@ -1,4 +1,4 @@
-# Name: Cheng-Chia (Karie) Huang, RedID: 819526065
+# Name: Cheng-Chia (Karie) Huang
 
 import math
 

@@ -2,7 +2,7 @@ import random
 from MyPoint import Point
 
 
-# Q 1.5
+
 def point_lst(num_point,dimension,lower_bound, upper_bound):  # Create a function that takes 4 parameters
     newlst = []    # crate an empty list
 
@@ -20,7 +20,7 @@ def point_lst(num_point,dimension,lower_bound, upper_bound):  # Create a functio
 
 
 
-# Q 1.7
+
 def min_distance(pointList):
     thePoint = Point(2,(50,50,0))
     thelst = []

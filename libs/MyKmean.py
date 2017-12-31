@@ -1,4 +1,4 @@
-# Name: Cheng-Chia (Karie) Huang, RedID: 819526065
+# Name: Cheng-Chia (Karie) Huang
 
 import sys, random
 from MyPoint import Point
@@ -68,7 +68,7 @@ class MyKmeans:
                     min_dist = dist  # assign min_dist is dist
                     i.clust_id = j   # assign the ID of the point in self.points is the ID of the centroid in self.centroids
 
-    # Q3.1
+
 
     def check_same_coordinate(self,point1,point2):
         if point1.coordinate == point2.coordinate:
@@ -76,7 +76,7 @@ class MyKmeans:
         else:
             return False
 
-    # Q3.2
+
 
     def update_centroid(self):
         flag_all_same_coordinate = True
